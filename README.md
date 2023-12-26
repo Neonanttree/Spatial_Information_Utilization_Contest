@@ -1,1 +1,7 @@
-# Spatial_Information_Utilization_Contest
+1. 수치표고모델 데이터 좌표계 변환 (EPSG 5186 to EPSG 5174)
+2. 좌표계 변환된 데이터를 QGIS에 삽입
+3. QGIS내에서 높이 및 좌표 데이터 추출
+4. Matplotlib를 통한 토지 이미지 생성 및 저장
+5. ANN 모델 및 CNN 모델 생성 후 높이 및 이미지 데이터 학습
+6. 토지 데이터를 급경사, 완경사, 평지 등으로 분류
+7. ANN 모델 및 CNN 모델 Ensemble
